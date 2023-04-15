@@ -51,3 +51,4 @@ if __name__=='__main__':
     diccionario=jF.leerJSONArchivo()
     objManejador=jF.decodificarDiccionario(diccionario)
     main()
+rt
